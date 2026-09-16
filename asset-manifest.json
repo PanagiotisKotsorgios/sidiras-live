@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.6bf6220f.css",
-    "main.js": "./static/js/main.74f742d1.js",
-    "index.html": "./index.html",
-    "main.6bf6220f.css.map": "./static/css/main.6bf6220f.css.map",
-    "main.74f742d1.js.map": "./static/js/main.74f742d1.js.map"
+    "main.css": "/sidiras-live/static/css/main.6bf6220f.css",
+    "main.js": "/sidiras-live/static/js/main.d1fe3d36.js",
+    "index.html": "/sidiras-live/index.html",
+    "main.6bf6220f.css.map": "/sidiras-live/static/css/main.6bf6220f.css.map",
+    "main.d1fe3d36.js.map": "/sidiras-live/static/js/main.d1fe3d36.js.map"
   },
   "entrypoints": [
     "static/css/main.6bf6220f.css",
-    "static/js/main.74f742d1.js"
+    "static/js/main.d1fe3d36.js"
   ]
 }
